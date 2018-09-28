@@ -1,0 +1,4 @@
+create your own todo list by using php.
+
+database name:todo;
+import in database there is no password username is root
